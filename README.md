@@ -1,5 +1,5 @@
 # 360Spred
-Dataset and Code for the paper "360Spred: Saliency Prediction for 360-Degree
+Code for the paper "360Spred: Saliency Prediction for 360-Degree
 Videos Based on 3D Separable Graph
 Convolutional Networks", TCSVT
 
